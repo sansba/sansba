@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ensar Selim Özkan
+- 👀 I’m interested in deep learning and computer vision.
+- 🌱 I’m currently building segmentation applications.
+- 📫 You can reach me via mail: ensarozkan41@gmail.com
